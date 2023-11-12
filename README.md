@@ -6,7 +6,7 @@
 ## 使用教程
 详情见[Akimio的博客](https://blog.akimio.top/posts/1031/#使用教程)
 ## 已知问题
-遇见#号开头的文件夹会出现文件错误，自行去alist隐藏文件夹。
+貌似windows端遇见#号开头的文件夹会返回文件错误，自行去alist隐藏文件夹。
 
 ## Star History
 <a href="https://github.com/Akimio521/AutoFilm/stargazers">

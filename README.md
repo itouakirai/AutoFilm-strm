@@ -17,7 +17,7 @@ sudo python -m venv /path/to/your/venv
 切换到虚拟环境
 ```shell
 sudo source /path/to/your/venv/bin/activate
-```shell
+```
 先升级一下
 ```shell
 sudo pip install --upgrade pip
